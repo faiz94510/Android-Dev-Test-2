@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidDevTest2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtitle_pendapat_lain">Uang yang masuk ke laci kasir/rekening yang menambah profit/laba bisnis kamu</string>
+    <string name="subtitle_non_pendapatan">Uang yang masuk ke laci kasir/rekening yang Tidak menambah profit/laba bisnis kamu</string>
+    <string-array name="category">
+        <item>Pendapatan Lain</item>
+        <item>Non pendapatan</item>
+    </string-array>
+</resources>
+

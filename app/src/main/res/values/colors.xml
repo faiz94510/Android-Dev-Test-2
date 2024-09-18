@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="line">#CCCCCC</color>
+    <color name="grey">#AFA4A4</color>
+    <color name="green_primary">#618E3F</color>
+    <color name="card_photo">#ECECEC</color>
+    <color name="blue_edit">#197496</color>
+    <color name="red_delete">#DC584D</color>
+    <color name="blue_view_photo">#57BCE8</color>
+    <color name="bg_header_row">#F6F6F6</color>
+</resources>

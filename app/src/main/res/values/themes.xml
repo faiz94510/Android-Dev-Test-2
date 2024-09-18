@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AndroidDevTest2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+    </style>
+    <style name="CustomBottomSheetDialogTheme" parent="ThemeOverlay.Material3.BottomSheetDialog">
+        <!-- Atur atribut yang dibutuhkan -->
+    </style>
+</resources>
